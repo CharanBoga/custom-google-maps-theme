@@ -50,10 +50,3 @@ custom-google-maps-theme/
 - [Google Cloud Platform](https://cloud.google.com/)
 - [Google Maps Platform](https://developers.google.com/maps/documentation)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README according to your project's specific details and requirements. Good luck with your Custom Google Maps Theme project! If you have any questions or need assistance, don't hesitate to reach out.
